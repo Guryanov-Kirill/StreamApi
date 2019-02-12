@@ -1,4 +1,4 @@
-package sp;
+package com.example.streams;
 
 public class Artist {
 

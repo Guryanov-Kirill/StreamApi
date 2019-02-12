@@ -1,7 +1,7 @@
-package sp;
+package com.example.streams;
 
 import com.google.common.collect.ImmutableMap;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -10,8 +10,8 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-import static org.junit.Assert.*;
-import static sp.FirstPartTasks.*;
+import static com.example.streams.FirstPartTasks.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FirstPartTasksTest {
 
