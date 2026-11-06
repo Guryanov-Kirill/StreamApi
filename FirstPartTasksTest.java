@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FirstPartTasksTest {
 
-    @Test
+    @org.junit.Test
     public void testAllNames() {
         assertEquals(
                 Arrays.asList("Sun Structures", "Keep In The Dark"),
